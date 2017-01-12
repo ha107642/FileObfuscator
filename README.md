@@ -1,4 +1,4 @@
-# File Obfuscator
+# ![Alt](/logo.ico "Logo") File Obfuscator
 
 A simple tool which obfuscates (by simple byte by byte XOR) any file to make it sendable as an e-mail attachment.
 Probably only works for Windows, but could be easily changed to work with other operating systems as well.
@@ -11,7 +11,7 @@ The project can also be opened using Visual Studio and compiled.
 
 ## Usage
 
-If the program was installed using *install.bat*, the program can be run by right clicking a file, choosing "Send To" followed by "File Obfuscator".
+If the program was installed using *install.bat*, the program can be run by right clicking a file, choosing "Send to" followed by "File Obfuscator".
 This will create a copy of the file with a *.obf* extension. To deobfuscate the file, simply do the same thing with the *.obf* file.
 
 The program can also be run from a shell, by typing:
